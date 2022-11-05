@@ -1,0 +1,51 @@
+   USERS-Collection
+
+username: "GoodGuyGreg"
+first_name:"Good Guy"
+last_name: "Greg"
+username: ScumbagSteve
+full_name:
+   first:"Scumbag"
+   last:"Steve"
+
+
+    POSTS
+
+username: "GoodGuyGreg"
+title:"Passes out at party"
+body :"Wakes up early and cleans house"
+
+username: "GoodGuyGreg"
+title:"Steals your identity"
+body :"Raise your credit score"
+
+username: "ScumbagSteve"
+title:"Borrows something"
+body :"Sells it"
+
+username: "ScumbagSteve"
+title:"Borrows everything"
+body :"The end"
+
+username: "ScumbagSteve"
+title:"Forks your repo on github"
+body :"Sets to private"
+
+     COMMENTS
+
+username: "GoodGuyGreg"
+comment: Hope you got a good deal!
+post:[----]
+
+
+username: "GoodGuyGreg"
+comment: "What's mine is yours!"
+post:[----]
+
+username: "ScumbagsSteve"
+comment: "Denied your PR Cause I found a hack"
+post:[----]
+
+
+
+
